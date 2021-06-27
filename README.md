@@ -1,6 +1,5 @@
 ### Hi, I'm Madala 👋
 
-<!--
 Product minded iOS engineer with a particular focus on iOS apps and experiences!
 
 🔭 Currently working on all things Apple – iOS
