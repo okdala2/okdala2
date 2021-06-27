@@ -2,9 +2,9 @@
 
 Product minded iOS engineer with a particular focus on iOS apps and experiences!
 
-🔭 Currently working on all things Apple – iOS
-🎧 Airpods are my favorite Apple product
-🌱 Love to learn!
-👯 Always looking to collaborate
-💬 Ask me about anything iOS
-📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/madalamathurin)
+- 🔭 Currently working on all things Apple – iOS
+- 🎧 Airpods are my favorite Apple product
+- 🌱 Love to learn!
+- 👯 Always looking to collaborate
+- 💬 Ask me about anything iOS
+- 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/madalamathurin)
