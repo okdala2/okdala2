@@ -1,6 +1,6 @@
 ### Hi, I'm Madala 👋
 
-Product minded iOS engineer with a particular focus on iOS apps and experiences!
+Product minded iOS engineer focused on apps and experiences!
 
 - 🔭 Currently working on all things iOS
 - 🎧 Airpods are my favorite Apple product
