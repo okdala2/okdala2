@@ -7,5 +7,5 @@ Product minded iOS engineer focused on apps and experiences!
 - 🌱 Love to learn!
 - 👯 Always looking to collaborate
 - 💬 Ask me about anything iOS
-- 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/madalamathurin)
-- Email - madalaokm@gmail.com
+- 📫 Let's connect - madalaokm@gmail.com
+- More [LinkedIn](https://www.linkedin.com/in/madalamathurin)
